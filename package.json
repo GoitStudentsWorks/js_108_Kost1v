@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Future-Developers2.0/",
+    "build": "vite build --base=/js_108_Kost1v/",
     "preview": "vite preview"
   },
   "devDependencies": {
